@@ -2,20 +2,21 @@ class Solution {
 public:
     long long maximumValueSum(vector<int>& nums, int k, vector<vector<int>>& edges) {
         long long sum = 0;
-        int count = 0;
-        int loss = INT_MAX;
-        for(long long num: nums) {
-            if((num^k) > num) {
-                count++;
-                sum += (num^k);
-            }
-            else
-                sum += num;
-            loss = min((long long)loss, abs(num -(num^k)));
-        }
-        if(count%2 == 0) 
-            return sum;
+        vector<int> fayeda;
         
-        return sum - loss;
+        for(int i=0; i<nums.size(); i++) {
+            sum += nums[i];
+            fayeda.push_back((nums[i]^k) - nums[i]);
+        }
+        
+        sort(fayeda.begin(), fayeda.end(), greater<int>());
+        int n = fayeda.size();
+        
+        for(int i=0; i<n-1; i+=2) {
+            if(fayeda[i] + fayeda[i+1] > 0)
+                sum += fayeda[i] + fayeda[i+1];
+        }
+        
+        return sum;
     }
 };
