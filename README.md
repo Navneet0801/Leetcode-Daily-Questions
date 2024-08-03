@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/2502-sort-the-people) |
 ## String
 |  |
@@ -18,5 +20,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
