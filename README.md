@@ -14,16 +14,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2502-sort-the-people](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +35,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Greedy
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
