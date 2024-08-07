@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/0273-integer-to-english-words) |
 | [2502-sort-the-people](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -43,4 +44,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Math
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/0273-integer-to-english-words) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
