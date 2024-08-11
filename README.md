@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2502-sort-the-people](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -52,4 +53,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/0273-integer-to-english-words) |
+## Depth-First Search
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Matrix
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Navneet0801/Leetcode-Daily-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
